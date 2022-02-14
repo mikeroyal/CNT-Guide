@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/153960848-375170b9-91f1-4332-8464-bb0ef8f6f63f.png">
   <br />
   Carbon nanotubes (CNTs) Guide
 </h1>
@@ -9,14 +9,8 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/153960883-a6a2e8d5-2d5c-4de6-93f3-0cd6af37a722.png">
 <br />
-</p>
-
-<p align="center">
-<img src="">
-<br />
- 
 </p>
 
 
@@ -66,11 +60,6 @@
 
 10. [Bioinformatics](https://github.com/mikeroyal/CNT-Guide#)
 
-<p align="center">
-<img src="">
-<br />
- 
-</p>
 
 
 # Getting Started with CNTs
@@ -95,31 +84,32 @@
    - Supercapacitors
 
    - Electrical shielding devices
- 
+
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/153960910-da1881b8-9aaf-4355-953d-14d0f080d298.gif">
 <br />
- 
+ Carbon Nanotubes
 </p>
 
 [Single-walled carbon nanotubes (SWCNT)](https://www.graphene-info.com/carbon-nanotubes) is a carbon nanotube made from one layer of carbon atoms. It can be formed in three different designs: Armchair, Chiral, and Zigzag. The design depends on the way the graphene is wrapped into a cylinder.  
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/153961074-e7653b1d-9487-412c-b0d6-ec22ba4c338f.png">
 <br />
  Single-Walled Carbon Nanotubes (SWCNT)
 </p>
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/153961129-dab8c61a-f8a8-42d5-847c-6fbceda695b2.png">
 <br />
- Types of carbon nanotubes: (a) armchair, (b) zigzag, (c) chiral. Source: [ResearchGate](https://www.researchgate.net/figure/9-Types-of-carbon-nanotubes-a-armchair-b-zigzag-c-chiral-Reproduced-from-55_fig9_305766738)
 </p>
+
+Types of carbon nanotubes: (a) armchair, (b) zigzag, (c) chiral. Source: [ResearchGate](https://www.researchgate.net/figure/9-Types-of-carbon-nanotubes-a-armchair-b-zigzag-c-chiral-Reproduced-from-55_fig9_305766738)
 
 [Double-Walled Carbon Nanotubes (DWCNT)](https://www.ossila.com/products/double-walled-carbon-nanotubes) is a class of carbon nanotube consists of two nanotubes, with one nested within the other. The differences in the diameters of the two nanotubes can produce varying degrees of interaction between the two tubes. This allows for modifications to be made to the outer nanotube without altering the inner nanotube's properties, and results in unique and interesting properties. Additionally, DWCNTs enable a combination of solubility and functionality (which is not possible with single-walled carbon nanotubes).
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/153961095-581d6c35-9c83-4f8e-9254-897f5b7965f2.png">
 <br />
  Double-Walled Carbon Nanotubes (DWCNT)
 </p>
@@ -128,7 +118,7 @@
 [Multi-walled carbon nanotubes (MWCNT)](https://www.graphene-info.com/carbon-nanotubes) is a carbon nanotube made consisting of several layers of graphene sheets. Multi-walled carbon nanotubes have similar properties to singlewalled nanotubes, yet the outer walls on multi-walled nanotubes can protect the inner carbon nanotubes from chemical interactions with outside materials. Multi-walled nanotubes also have a higher tensile strength than single-walled nanotubes. 
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/153961109-c5a96b79-7315-49dd-a68e-40c7382df786.png">
 <br />
  Multi-walled carbon nanotubes (MWCNT)
 </p>
@@ -140,11 +130,11 @@
 [Solid-State Battery](https://ucsdnews.ucsd.edu/pressrelease/meng_science_2021) is a battery technology that consists of a cathode composite layer, a sulfide solid electrolyte layer, and a carbon free micro-silicon anode. Before charging, discrete micro-scale Silicon particles make up the energy dense anode.
 
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/153961151-5c0fcbbf-26f4-4cff-95ff-9d07046289f1.png">
 <br />
  Solid-State Battery
 </p>
- 
+
 # Electric charge, field, and potential
 [Back to the Top](https://github.com/mikeroyal/CNT-Guide#table-of-contents)
 
@@ -274,7 +264,7 @@
   <br />
   </p>
 
-  **Quantum Physics Systems equations. [pinterest](https://www.pinterest.com/pin/416723771749141466/)**
+  **Quantum Physics Systems equations. Spurce: [pinterest](https://www.pinterest.com/pin/416723771749141466/)**
  
 # MATLAB Development
 [Back to the Top](https://github.com/mikeroyal/CNT-Guide#table-of-contents)
