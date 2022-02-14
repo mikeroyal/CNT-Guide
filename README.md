@@ -16,7 +16,7 @@
 
 # Table of Contents
 
-1. [Getting Started with CNTs](https://github.com/mikeroyal/CNT-Guide#)
+1. [Getting Started with CNTs](https://github.com/mikeroyal/CNT-Guide#getting-started-with-cnts)
 
 2. [Electric charge, field, and potential](https://github.com/mikeroyal/CNT-Guide#electric-charge-field-and-potential)
 
@@ -58,8 +58,7 @@
 
 9. [CUDA Development](https://github.com/mikeroyal/CNT-Guide#CUDA-Development)
 
-10. [Bioinformatics](https://github.com/mikeroyal/CNT-Guide#)
-
+10. [Bioinformatics](https://github.com/mikeroyal/CNT-Guide#bioinformatics)
 
 
 # Getting Started with CNTs
